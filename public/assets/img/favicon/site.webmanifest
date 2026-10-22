@@ -1,0 +1,25 @@
+{
+  "name": "e-Djaya POS & Operasional",
+  "short_name": "e-Djaya",
+  "description": "Aplikasi Kasir Point of Sale dan Operasional e-Djaya",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8f3",
+  "theme_color": "#b42318",
+  "icons": [
+    {
+      "src": "/assets/img/favicon/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/img/favicon/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
